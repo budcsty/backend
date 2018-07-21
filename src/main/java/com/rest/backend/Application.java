@@ -1,4 +1,4 @@
-package com.backend.rest;
+package com.rest.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
